@@ -1,0 +1,2 @@
+TestRunner/pal_testFreeRTOS.c
+TestRunner/pal_testLinux.c
